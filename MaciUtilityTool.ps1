@@ -1,0 +1,1 @@
+Start-Process -FilePath "$env:comspec" -ArgumentList "/c `"C:\Program Files (x86)/Microsoft Visual Studio\2022\BuildTools\Common7\Tools\VsDevCmd.bat`" & code ." -WorkingDirectory "D:\Projects\VS Code Projects\MaciUtilityTool"
